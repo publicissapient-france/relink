@@ -1,0 +1,15 @@
+# Bytecode
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+.Python
+build/
+dist/
+sdist/
+*.dist-info
+*.egg-info
+
+# Environments
+.venv
+venv/
